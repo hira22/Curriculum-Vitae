@@ -2,11 +2,7 @@
 
 ## 基本情報
 
-| | |
-|---|-----|
-|Name|平岡 真之 (Hiraoka Masayuki)|
-|||
-
+- 平岡 真之 (Hiraoka Masayuki)
 
 ## スキル
 
